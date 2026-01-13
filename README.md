@@ -8,10 +8,10 @@
   <a href="https://rakibhassan.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Portfolio-blue?style=for-the-badge&logo=vercel" alt="Live Demo">
   </a>
-  <a href="https://github.com/rakibhassanbappy">
+  <a href="https://github.com/rakibhassan01">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://linkedin.com/in/rakibhassanbappy">
+  <a href="https://linkedin.com/in/rakibhassan01">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
@@ -54,7 +54,7 @@ I am a passionate **Full Stack Developer** specializing in building modern, high
 
 Feel free to reach out if you have a project in mind or just want to say hi!
 
-- **Email**: [rakibhassanbappy01@gmail.com](mailto:rakibhassanbappy01@gmail.com)
+- **Email**: [rakibcoding@gmail.com](mailto:rakibcoding@gmail.com)
 - **Portfolio**: [rakibhassan.vercel.app](https://rakibhassan.vercel.app/)
 
 <p align="center">
